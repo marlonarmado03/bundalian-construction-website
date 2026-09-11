@@ -1,4 +1,4 @@
-# Bundalian — Admin
+# ForgeBuild Construction — Admin v4
 
 Modern React + Vite construction company website with a redesigned white / brown / black / dark-maroon visual system.
 
@@ -10,6 +10,12 @@ Open `/` (or the root URL). Visitors can:
 - Filter projects
 - Use the contact form UI
 
+## Admin
+Open `/#/admin`.
+
+Fixed demo credentials:
+- Username: `admin`
+- Password: `Admin@2026`
 
 Admin can edit company/hero/contact content and project/media data. Data is saved to browser localStorage.
 
